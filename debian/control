@@ -1,0 +1,14 @@
+Source: tuquito-lxde-livecd
+Section: admin
+Priority: extra
+Maintainer: Mario Colque <mario@tuquito.org.ar>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.3
+
+Package: tuquito-lxde-livecd
+Architecture: all
+Depends: lxdm
+Description: Package that provides automatic login in the live environment.
+ Package that provides automatic login in the live environment.
+ * Tuquito Team! - 2010
+

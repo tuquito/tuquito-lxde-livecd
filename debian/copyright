@@ -1,0 +1,24 @@
+This work was packaged for Debian by:
+
+    Mario Colque <mario@tuquito.org.ar> on Wed, 28 Apr 2010 11:35:05 -0400
+
+Upstream Author(s):
+
+    Shane Joe Lazar <shane@archlinux.us>
+
+Copyright:
+
+    Copyright (C) 2010 Tuquito Team!
+
+License:
+
+    GPL version 3
+    see '/usr/share/common-licenses/GPL-3'
+
+The Debian packaging is:
+
+    Copyright (C) 2010 Mario Colque <mario@tuquito.org.ar>
+
+and is licensed under the GPL version 3,
+see `/usr/share/common-licenses/GPL-3'.
+
